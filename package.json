@@ -1,0 +1,3 @@
+{
+  "name":"kafka-event-platform","private":true,"version":"1.0.0","scripts":{"start":"node src/index.js","test":"node --test"},"dependencies":{"kafkajs":"^2.2.4","zod":"^3.25.76"}
+}
